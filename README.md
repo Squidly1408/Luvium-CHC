@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/Squidly1408/fic/main/assets/images/fic_logo.png)
+![Luvium-CHC Banner](./.github/banner.png)
 
 # Project Database or Luvium 
 
