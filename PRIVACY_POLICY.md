@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Luvium** - Last updated 31 August 2026
+**Luvium (Project Database)** - Last updated 31 August 2026
 
-This Privacy Policy explains what information Luvium, a research and project-discovery platform originally built for students at Cooks Hill Campus, collects, how it's used, and your choices. Luvium is an independent project operated by Lucas Newman (robotduck961@gmail.com). This is a plain-language policy for a small independent project, not a substitute for legal advice.
+This Privacy Policy explains what information Luvium (Project Database), a research and project-discovery platform originally built for students at Cooks Hill Campus, collects, how it's used, and your choices. Luvium (Project Database) is an independent project operated by Lucas Newman (robotduck961@gmail.com). This is a plain-language policy for a small independent project, not a substitute for legal advice.
 
 ## What we collect
 
@@ -16,11 +16,11 @@ This Privacy Policy explains what information Luvium, a research and project-dis
 
 ## How we use information
 
-We use the information above only to operate, maintain, and improve Luvium - for example, to let you sign in, save your data, process payments you've requested, or show the app's live status. We do not sell your personal information.
+We use the information above only to operate, maintain, and improve Luvium (Project Database) - for example, to let you sign in, save your data, process payments you've requested, or show the app's live status. We do not sell your personal information.
 
 ## Your choices
 
-You can request access to, correction of, or deletion of your personal data by contacting us at robotduck961@gmail.com. If Luvium offers an account, you can typically delete your own data from within the app; otherwise, email us and we'll action your request as soon as reasonably possible.
+You can request access to, correction of, or deletion of your personal data by contacting us at robotduck961@gmail.com. If Luvium (Project Database) offers an account, you can typically delete your own data from within the app; otherwise, email us and we'll action your request as soon as reasonably possible.
 
 ## Data retention & security
 
@@ -28,11 +28,11 @@ We keep data only as long as needed for the purposes above, or as required by ou
 
 ## Children's privacy
 
-Luvium is not directed at children under 13, and we don't knowingly collect personal information from children under 13. If you believe a child has provided us personal data, contact us and we'll remove it.
+Luvium (Project Database) is not directed at children under 13, and we don't knowingly collect personal information from children under 13. If you believe a child has provided us personal data, contact us and we'll remove it.
 
 ## Changes to this policy
 
-We may update this policy from time to time; the "Last updated" date above will change accordingly. Continued use of Luvium after a change means you accept the updated policy.
+We may update this policy from time to time; the "Last updated" date above will change accordingly. Continued use of Luvium (Project Database) after a change means you accept the updated policy.
 
 ## Contact
 
